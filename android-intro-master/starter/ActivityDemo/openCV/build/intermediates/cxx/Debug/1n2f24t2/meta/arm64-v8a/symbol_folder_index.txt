@@ -1,0 +1,1 @@
+C:\Users\ASUS\Desktop\android-intro-master\android-intro-master\starter\ActivityDemo\openCV\build\intermediates\cxx\Debug\1n2f24t2\obj\arm64-v8a

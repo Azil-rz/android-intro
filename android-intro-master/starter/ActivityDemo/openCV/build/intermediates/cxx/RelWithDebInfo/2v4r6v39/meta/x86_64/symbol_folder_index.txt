@@ -1,0 +1,1 @@
+C:\Users\ASUS\Desktop\android-intro-master\android-intro-master\starter\ActivityDemo\openCV\build\intermediates\cxx\RelWithDebInfo\2v4r6v39\obj\x86_64

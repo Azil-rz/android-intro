@@ -1,0 +1,8 @@
+org.opencv.openCV-pngs-0 C:\Users\ASUS\Desktop\android-intro-master\android-intro-master\starter\ActivityDemo\openCV\build\generated\res\pngs\release
+org.opencv.openCV-resValues-1 C:\Users\ASUS\Desktop\android-intro-master\android-intro-master\starter\ActivityDemo\openCV\build\generated\res\resValues\release
+org.opencv.openCV-rs-2 C:\Users\ASUS\Desktop\android-intro-master\android-intro-master\starter\ActivityDemo\openCV\build\generated\res\rs\release
+org.opencv.openCV-mergeReleaseResources-3 C:\Users\ASUS\Desktop\android-intro-master\android-intro-master\starter\ActivityDemo\openCV\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+org.opencv.openCV-mergeReleaseResources-4 C:\Users\ASUS\Desktop\android-intro-master\android-intro-master\starter\ActivityDemo\openCV\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+org.opencv.openCV-merged_res-5 C:\Users\ASUS\Desktop\android-intro-master\android-intro-master\starter\ActivityDemo\openCV\build\intermediates\merged_res\release
+org.opencv.openCV-java-6 C:\Users\ASUS\Desktop\android-intro-master\android-intro-master\starter\ActivityDemo\openCV\java\res
+org.opencv.openCV-release-7 C:\Users\ASUS\Desktop\android-intro-master\android-intro-master\starter\ActivityDemo\openCV\src\release\res

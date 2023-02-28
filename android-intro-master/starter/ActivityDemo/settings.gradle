@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+        jcenter()
+//        maven{ url 'https://maven.aliyun.com/repository/google'}
+//        maven{ url 'https://maven.aliyun.com/repository/jcenter'}
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+//        maven{ url 'https://maven.aliyun.com/repository/google'}
+//        maven{ url 'https://maven.aliyun.com/repository/jcenter'}
+    }
+}
+rootProject.name = "Activity Demo"
+include ':app'
+include ':openCV'
